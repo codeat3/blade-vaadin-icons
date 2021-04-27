@@ -1,7 +1,7 @@
 {
     "name": "codeat3/blade-vaadin-icons",
     "description": "A package to easily make use of \"Vaadin Icons\" in your Laravel Blade views.",
-    "keywords": ["Blade", "evilicons", "Laravel"],
+    "keywords": ["Blade", "vaadin-icons", "Laravel"],
     "homepage": "https://github.com/codeat3/blade-vaadin-icons",
     "license": "MIT",
     "authors": [
