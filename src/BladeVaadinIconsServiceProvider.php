@@ -32,7 +32,7 @@ final class BladeVaadinIconsServiceProvider extends ServiceProvider
         if ($this->app->runningInConsole()) {
             $this->publishes([
                 __DIR__.'/../resources/svg' => public_path('vendor/blade-vaadin-icons'),
-            ], 'blade-vaadin-icons');
+            ], 'blade-vaadin'); // TODO: change this alias to `blade-vaadin-icons` in next major release
 
             $this->publishes([
                 __DIR__.'/../config/blade-vaadin-icons.php' => $this->app->configPath('blade-vaadin-icons.php'),
