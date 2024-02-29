@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-vaadin-icons/compare/1.4.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-vaadin-icons/compare/1.5.0...HEAD)
+
+## [1.5.0](https://github.com/codeat3/blade-vaadin-icons/compare/1.4.1...1.5.0) - 2024-02-29
+
+### What's Changed
+
+* L11 support by @swapnilsarwe in https://github.com/codeat3/blade-vaadin-icons/pull/7
+
+**Full Changelog**: https://github.com/codeat3/blade-vaadin-icons/compare/1.4.1...1.5.0
 
 ## [1.4.1](https://github.com/codeat3/blade-vaadin-icons/compare/1.3.1...1.4.1) - 2023-02-18
 
